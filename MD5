@@ -1,0 +1,15 @@
+4cc8cb8d71fbd2d0c09dbe7b989a2971 *DESCRIPTION
+d75d9a39cd141e305a6b54153ccd676d *NAMESPACE
+97f4228ba7dcf7d748090d2d74233eb4 *R/data.R
+84039085c23e987a9784f66581d667dd *R/functional_calibration_splines.R
+ef466a311cce6b6da0a1c5d1b1649736 *R/functional_calibration_wavelets.R
+fd6711da79d6da8e0aa8d707b742db25 *R/plot_aggregated_curve.R
+b675382cab635081042b1a17ce7cd5d2 *R/weight_aggregated_data_estimation.R
+bd3a40bacb91a5c8da244152fbe2caaa *data/simulated_data.rda
+13641e20232d8c044092e67c6656c730 *man/Bayesian_Shrinkage.Rd
+4b54aafebd8c3f4271314cb280a22c28 *man/Logistic_Density.Rd
+f2eff17022a7fc0d7ab410c5c7e7a589 *man/functional_calibration_splines.Rd
+be9f28e5c382463b55aa0cf797e3842b *man/functional_calibration_wavelets.Rd
+191e3e065357d8239e174220d7f87090 *man/plot_aggregated_curve.Rd
+3ba2c1f19dc661c2c339e73d318b527b *man/simulated_data.Rd
+0a29469fc5e33ba837b3e13365baae38 *man/weight_estimation.Rd
